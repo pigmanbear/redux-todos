@@ -1,7 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 yarn create-todos , to create random todos
+
 yarn dev-server , to start json server
+
 yarn start , to run react-app
 
 ### Purpose
